@@ -10,6 +10,7 @@ sudo rm /usr/local/bin/ngrok
 Then,
 rm /home/kali/.config/ngrok/ngrok.yml
  ```
+## Install Ngrok
  ```
 sudo apt install git -y
 git clone https://github.com/BD8KR3M/ngrok_v2
