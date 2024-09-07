@@ -16,6 +16,7 @@ sudo apt install git -y
 git clone https://github.com/BD8KR3M/ngrok_v2
 unzip ngrok_v2
 cd ngrok_v2
+chmod +x ngrok
 sudo mv ngrok /usr/local/bin/
  ```
 ## Install Complate.
